@@ -1,1 +1,1 @@
-Little project to practice Rest API and Relational database skill using DND
+A small project to practice Rest API and Relational database knowledge Using a Dungeons And Dragon public API
